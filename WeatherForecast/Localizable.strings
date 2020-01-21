@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  WeatherForecast
+
+  Created by Diana on 1/21/20.
+  Copyright © 2020 Diana Daher. All rights reserved.
+*/
+"Weather Forecast" = "Weather Forecast";
+"no_internet" = "No internet connection";
+"parsing_error" = "Parsing Error";
+"connection_failed" = "Connection failed";
+"connection_failed_message" = "No internet connection, please try again.";
+"Ok" = "Ok";
+"something_went_wrong" = "Something went wrong";
+"meter/sec" = "meter/sec";
+"miles/hour" = "miles/hour";
+"°C" = "°C";
+"°F" = "°F";
+"Error" = "Error";
+"City not found" = "City not found";
+"Current City" = "Current City";
+"Other Cities" = "Other Cities";
+"Other" = "Other";
+"missing_cities" = "Missing cities";
+"missing_cities_message" = "Please fill at least 3 city names in order to get their weather. Eg. london, paris, new york";
+"eg.cities" = "eg. london, paris, new york";
+"Wind speed:" = "Wind speed:";
+"Couldn't locate your current city" = "Couldn't locate your current city";
+"permission_needed" = "Permission needed";
+"permission_needed_message" = "To allow Weather Forecast to access your current location, please visit your iPhone's Settings area.";
+"Cancel" = "Cancel";
